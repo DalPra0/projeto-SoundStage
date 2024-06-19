@@ -120,7 +120,7 @@ def calibrate_microphone():
         root.update()  # Atualiza a interface gráfica
         time.sleep(0.1)
 
-    calibrated_volume = max_volume + 200  # Adicionando um valor para garantir que os sons maiores sejam capturados
+    calibrated_volume = max_volume + 50  # Adicionando um valor para garantir que os sons maiores sejam capturados
     calib_label.config(text=f"Calibração concluída. Volume de referência: {calibrated_volume}")
 
 def start_game():

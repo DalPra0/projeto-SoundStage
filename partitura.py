@@ -65,7 +65,6 @@ class Metronome(tk.Toplevel):
         self.bpm = tk.IntVar(value=120)
         self.running = False
 
-        # Initialize pygame mixer
         pygame.mixer.init()
 
         tk.Label(self, text="BPM:").pack(pady=10)
