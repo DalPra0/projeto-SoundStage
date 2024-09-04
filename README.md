@@ -40,24 +40,3 @@
     ```bash
     python main.py
     ```
-
-## Contribuições
-
-Contribuições são bem-vindas! Se você encontrar problemas ou tiver ideias para melhorar o projeto, sinta-se à vontade para abrir um *pull request* ou relatar uma *issue*.
-
----
-
-### Sugestões de Nome para o Projeto
-
-1. **MusicMaster**
-2. **MusiPro**
-3. **TuneHero**
-4. **Rhythm Wizard**
-5. **MusiTools**
-6. **SoundPro**
-7. **HarmonyLab**
-8. **MusiLearn**
-9. **TuneCraft**
-10. **BeatSync**
-
-Esses nomes refletem a funcionalidade abrangente do projeto, que serve como uma suíte de ferramentas essenciais para músicos de todos os níveis.
